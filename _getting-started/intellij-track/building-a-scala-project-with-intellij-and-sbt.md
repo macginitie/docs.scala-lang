@@ -101,7 +101,7 @@ file.
 
 ## Next steps
 
-Continue to the next tutorial in the _getting started with IntelliJ_ series, and learn about [testing Scala code in IntelliJ with ScalaTest](testing-scala-in-intellij-with-scalatest.html).
+Continue to the next tutorial in the _getting started with IntelliJ_ series, and learn about [testing Scala code in IntelliJ with ScalaTest](testing-scala-in-intellij-with-scalatest.md).
 
 **or**
 
